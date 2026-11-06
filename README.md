@@ -143,12 +143,6 @@ We want to be upfront about what the prototype does not do yet:
 ## Data and attribution
 
 Map data is © OpenStreetMap contributors, available under the Open Database License (ODbL). Geocoding is provided by Photon and routing by the OSRM project; please follow their usage policies.
-
-## Team
-
-- Your Name: role
-- Teammate Name: role
-
 ## License
 
-Add a license of your choice (for example MIT) before publishing the repository.
+MIT License
